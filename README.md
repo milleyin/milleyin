@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/Swift-★★★☆☆-<COLOR>)![](https://img.shields.io/badge/algorithm-★★★★☆-blue)
+![](https://img.shields.io/badge/algorithm-★★★★☆-blue)   ![](https://img.shields.io/badge/Swift-★★★☆☆-<COLOR>)
 
