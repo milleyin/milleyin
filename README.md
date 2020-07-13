@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Swift-★★★☆☆-<COLOR>)
 
+![](https://img.shields.io/badge/algorithm-★★★★☆-blue)
+
