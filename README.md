@@ -1,4 +1,4 @@
-### Hi there 👋
+### SomeThingsAboutMe 👋
 
 <!--
 **milleyin/milleyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/Math-★★★★☆-brightgreen)   ![](https://img.shields.io/badge/Algorithm-★★★★☆-blue)   ![](https://img.shields.io/badge/Architect-★★★★☆-red)   ![](https://img.shields.io/badge/Swift-★★☆☆☆-<COLOR>)
+![](https://img.shields.io/badge/Math-★★★★☆-brightgreen)   ![](https://img.shields.io/badge/Algorithm-★★★★☆-blue)   ![](https://img.shields.io/badge/Architect-★★★★☆-red)   ![](https://img.shields.io/badge/Swift-★★☆☆☆-orange)
 
