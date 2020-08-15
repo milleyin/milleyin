@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/Math-★★★★☆-brightgreen)   ![](https://img.shields.io/badge/Algorithm-★★★★☆-blue)   ![](https://img.shields.io/badge/Architect-★★★★☆-red)   ![](https://img.shields.io/badge/Swift-★★☆☆☆-orange)
+![](https://img.shields.io/badge/Math-★★★★☆-brightgreen)   ![](https://img.shields.io/badge/Algorithm-★★★★☆-blue)   ![](https://img.shields.io/badge/Architect-★★★★☆-red)   ![](https://img.shields.io/badge/C++-★★★★☆-green)   ![](https://img.shields.io/badge/Swift-★★☆☆☆-orange)
 
