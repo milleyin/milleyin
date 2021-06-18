@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/Math-★★★★☆-brightgreen)   ![](https://img.shields.io/badge/Algorithm-★★★★☆-blue)   ![](https://img.shields.io/badge/systemArchitect-★★★★☆-red)
-![](https://img.shields.io/badge/Swift-★★★★☆-orange)    ![](https://img.shields.io/badge/UIKit-★★★★☆-9fc)    ![](https://img.shields.io/badge/Cocoa-★★★★☆-green)   ![](https://img.shields.io/badge/SwiftUI-★★★☆☆-yellow)   ![](https://img.shields.io/badge/php-★★★☆☆-lightgrey)    ![](https://img.shields.io/badge/C++-★★★★☆-586c5c)   ![](https://img.shields.io/badge/Spring-★★★★☆-lightgreen)   ![](https://img.shields.io/badge/DevOps-★★★★☆-ff7249)
+![](https://img.shields.io/badge/Math-★★★★☆-88a2bc)   ![](https://img.shields.io/badge/Algorithm-★★★★☆-f0dbb0)   ![](https://img.shields.io/badge/systemArchitect-★★★★☆-efb680)
+![](https://img.shields.io/badge/Swift-★★★★☆-d99477)    ![](https://img.shields.io/badge/UIKit-★★★★☆-fffc40)    ![](https://img.shields.io/badge/Cocoa-★★★★☆-ff8000)   ![](https://img.shields.io/badge/SwiftUI-★★★☆☆-ff8172)   ![](https://img.shields.io/badge/php-★★★☆☆-ff2fa9)    ![](https://img.shields.io/badge/C++-★★★★☆-3a579a)   ![](https://img.shields.io/badge/Spring-★★★★☆-36244f)   ![](https://img.shields.io/badge/DevOps-★★★★☆-001e38)
 
