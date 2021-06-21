@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 - 🤓 ..就是要用中文來寫:
 
-- 🔭 最近...在搞SwiftUI, bug很多，但很好玩。
+- 🔭 最近...在搞SwiftUI, bug很多，但很好玩
 - 🌱 同時...在重學Java()
 - 💬 一般問題， [這裡](https://github.com/milleyin/milleyin/issues)留言
 - 📮 或者用郵件或iMessage找我，地址是mille.yin#gmail.com
