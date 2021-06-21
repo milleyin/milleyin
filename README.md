@@ -22,13 +22,11 @@ Here are some ideas to get you started:
 - 🌱 同時...在重學Java()
 - 💬 一般問題， [這裡](https://github.com/milleyin/milleyin/issues)留言
 - 📮 或者用郵件或iMessage找我，地址是mille.yin#gmail.com
-- ...
+...
 - 另外，一個有趣的現象：「很多報錯，最後發現都是IDE的鍋」
 
-#####技能相關：
+- 技能相關：
+
 ![](https://img.shields.io/badge/Math-★★★★☆-88a2bc)      ![](https://img.shields.io/badge/Algorithm-★★★★☆-f0dbb0)      ![](https://img.shields.io/badge/systemArchitect-★★★★☆-efb680)      
 
 ![](https://img.shields.io/badge/Swift-★★★★☆-d99477)      ![](https://img.shields.io/badge/C++-★★★★☆-3a579a)      ![](https://img.shields.io/badge/php-★★★☆☆-ff2fa9)      ![](https://img.shields.io/badge/UIKit-★★★★☆-fffc40)      ![](https://img.shields.io/badge/Cocoa-★★★★☆-ff8000)      ![](https://img.shields.io/badge/SwiftUI-★★★☆☆-ff8172)      ![](https://img.shields.io/badge/Spring-★★★★☆-36244f)      ![](https://img.shields.io/badge/DevOps-★★★★☆-001e38)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milleyin&show_icons=true)
