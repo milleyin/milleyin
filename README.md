@@ -11,11 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 
-- 🔭 I’m working on SwiftUI recently
-- 🌱 I’m currently relearning Java
-- 💬 Ask me about someting? Leaved message [here](https://github.com/milleyin/milleyin/issues)
-- ⚡ Fun fact: lot's of error was because IDE bugs 😑
--->
 - 🤓 ..就是要用中文來寫:
 
 - 🔭 最近...在搞SwiftUI, bug很多，但很好玩
@@ -24,6 +19,15 @@ Here are some ideas to get you started:
 - 📮 或者用郵件或iMessage找我，地址是mille.yin#gmail.com
 ...
 - 另外，一個有趣的現象：「很多報錯，最後發現都是IDE的鍋」
+
+- ⚡ Fun fact: lot's of error was because IDE bugs 😑
+-->
+
+- 🔭 I’m working on SwiftUI recently
+- 🌱 I’m currently relearning Java
+- 💬 Ask me about someting? Leaved message [here](https://github.com/milleyin/milleyin/issues)
+- 📫 you can reach me by email or iMessage via mille.yin#gmail.com 
+
 
 
 ![](https://img.shields.io/badge/Algorithm-★★★★☆-f0dbb0)      ![](https://img.shields.io/badge/systemArchitect-★★★★★-efb680)      
