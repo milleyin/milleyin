@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 -->
 👷 王牌杂工
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=milleyin&theme=xcode&hide_border=true&radius=16&hide_title=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=milleyin&theme=xcode&hide_border=true&radius=16&hide_title=true&bg_color=E2E2E2)](https://github.com/ashutosh00710/github-readme-activity-graph)
