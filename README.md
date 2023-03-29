@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 <p>
 <p>
 <p> -->
-<div align=center><img width="560" height="420" src="https://user-images.githubusercontent.com/1904946/227820497-3abb3a5c-baf3-456e-8367-515fe1441084.gif"/></div>
+<div align=center><img width="360" height="220" src="https://user-images.githubusercontent.com/1904946/227820497-3abb3a5c-baf3-456e-8367-515fe1441084.gif"/></div>
