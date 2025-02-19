@@ -1,49 +1,14 @@
-<!--
-### SomeThingsAboutMe 👋
+### **哈喽 👋，我是 米粒🌾**  
+##### **来自 🇨🇳 的 Apple 平台开发者**
 
-**milleyin/milleyin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/milleyin)
 
-Here are some ideas to get you started:
+👨‍💻 **iOS / Apple 开发者**，专注 **Swift / SwiftUI / Apple Framework**，擅长 **蓝牙通信、导航系统、轨迹记录、加密技术** 等领域。  
 
+🌱 关注 **架构设计与可维护性**，追求 **高效、稳定、可扩展的应用**，在 **底层系统集成、网络通信、定位服务** 方面有实践经验。  
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+👯‍♂️ 既是打工人，也做独立开发，乐于与同行交流 **架构设计、技术实践、开发思路**，不断优化代码质量，提升用户体验。  
 
-- 🤓 ..就是要用中文來寫:
+💬 **欢迎交流探讨**，期待与志同道合的开发者一起探索更好的技术实践。  
 
-- 🔭 最近...在搞SwiftUI, bug很多，但很好玩
-- 🌱 同時...在重學Java()
-- 💬 一般問題， [這裡](https://github.com/milleyin/milleyin/issues)留言
-- 📮 或者用郵件或iMessage找我，地址是mille.yin#gmail.com
-...
-- 另外，一個有趣的現象：「很多報錯，最後發現都是IDE的鍋」
-
-- ⚡ Fun fact: lot's of error was because IDE bugs 😑
-
-
-- 🔭 I’m working on SwiftUI recently
-- 🌱 I’m currently relearning Java
-- 💬 Ask me about someting? Leaved message [here](https://github.com/milleyin/milleyin/issues)
-- 📫 you can reach me by email or iMessage via mille.yin#gmail.com 
-
-
-
-![](https://img.shields.io/badge/Algorithm-★★★★☆-f0dbb0)      ![](https://img.shields.io/badge/systemArchitect-★★★★★-efb680)      
-![](https://img.shields.io/badge/Swift-★★★★☆-d99477)      ![](https://img.shields.io/badge/C++-★★★★☆-3a579a)      ![](https://img.shields.io/badge/php-★★★☆☆-001e38)      ![](https://img.shields.io/badge/UIKit-★★★★☆-fffc40)      ![](https://img.shields.io/badge/Cocoa-★★★★☆-ff8000)      ![](https://img.shields.io/badge/SwiftUI-★★★☆☆-ff8172)      ![](https://img.shields.io/badge/Spring-★★★★☆-36244f)      ![](https://img.shields.io/badge/DevOps-★★★★☆-001e38)      ![](https://img.shields.io/badge/CentOS-★★★★☆-a85400)
--->
-
-
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=milleyin&theme=xcode&hide_border=true&radius=16&hide_title=true&bg_color=3E3E3E&line=E26800&point=2CA700)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-<!--
-<div align=center>
-🏅️ 王牌杂工 🏅️
-</div>
-<p>
-<p>
-<p> 
-<div align=center><img width="360" height="220" src="https://user-images.githubusercontent.com/1904946/227820497-3abb3a5c-baf3-456e-8367-515fe1441084.gif"/></div>
--->
-这家伙很懒，什么都没留下🫥
+📫 **联系我：mille.yin@gmail.com**  
