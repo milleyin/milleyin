@@ -12,3 +12,15 @@
 💬 **欢迎交流探讨**，期待与志同道合的开发者一起探索更好的技术实践。  
 
 📫 **联系我：mille.yin@gmail.com**  
+
+
+#### **🛠️ Languages**
+[![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white&link=https://developer.apple.com/swift/)](https://developer.apple.com/swift/)  [![Objective-C](https://img.shields.io/badge/-ObjectiveC-1575F9?style=flat&logo=apple&logoColor=white&link=https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)  [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white&link=https://www.sqlite.org/)](https://www.sqlite.org/)  [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white&link=https://www.mysql.com/)](https://www.mysql.com/)  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&link=https://www.postgresql.org)](https://www.postgresql.org)  [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white&link=https://redis.io)](https://redis.io)  [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white&link=https://mariadb.org/)](https://mariadb.org/)  [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&link=https://www.mongodb.com/)](https://www.mongodb.com/)  
+
+#### **⚙️ Tools**
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white&link=https://git-scm.com/)](https://git-scm.com/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white&link=https://github.com)](https://github.com/)  [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/)](https://gitlab.com/)  [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black&link=https://www.linux.org/)](https://www.linux.org/)  [![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white&link=https://www.nginx.com/)](https://www.nginx.com/)  [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black&link=https://firebase.google.com/)](https://firebase.google.com/)  [![Google Cloud](https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white&link=https://cloud.google.com)](https://cloud.google.com)  [![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat&logo=sketch&logoColor=black&link=https://www.sketch.com/)](https://www.sketch.com/)  
+
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/milleyin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="milleyin" /></a></p><br><br>
