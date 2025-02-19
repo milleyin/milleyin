@@ -5,7 +5,7 @@
 
 <img align="right" alt="" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%"/>
 
-##### 👨‍💻 **iOS / Apple 开发者**，专注 **Swift / SwiftUI / Apple Framework**
+##### 👨‍💻 **Apple 开发者**，**Swift / SwiftUI / Framework**
 
 ##### 👍 **擅长 **蓝牙通信、导航系统、轨迹记录、加密技术** 等领域。  
 
