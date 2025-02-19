@@ -5,9 +5,9 @@
 
 <img align="right" alt="" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%"/>
 
-##### 👨‍💻 **Apple 开发者**，**Swift / SwiftUI / Framework**
+##### 👨‍💻 **Apple开发者**，**Swift / SwiftUI / Framework**
 
-##### 👍 **擅长 **蓝牙通信、导航系统、轨迹记录、加密技术** 等领域。  
+##### 👍 **专注 手搓UI、蓝牙、导航、轨迹记录、加密** 等领域。  
 
 ##### 🌱 关注 **架构设计与可维护性**，追求 **高效、稳定、可扩展的应用**，在 **底层系统集成、网络通信、定位服务** 方面有实践经验。  
 
