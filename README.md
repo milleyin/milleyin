@@ -1,5 +1,5 @@
 ### **Hi 👋，I am Mille🌾**  
-##### **来自 🇨🇳 的 Apple 平台开发者**
+##### **An Apple Developer**
 
 [中文](README_cn.md)
 
@@ -7,15 +7,15 @@
 
 <img align="right" alt="" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%"/>
 
-##### 👨‍💻 **Apple开发者**，**Swift / SwiftUI / Framework**
+##### 👨‍💻 **Currently focused on: Swift / SwiftUI / Framework** 
 
-##### 👍 **专注 手搓UI、蓝牙、导航、轨迹记录、加密** 等领域。  
+##### 👍 **Specialized in** custom UI development, **Bluetooth, navigation, route tracking, and encryption.**  
 
-##### 🌱 关注 **架构设计与可维护性**，追求 **高效、稳定、可扩展的应用**，在 **底层系统集成、网络通信、定位服务** 方面有实践经验。  
+##### 🌱 Passionate about **architecture design and maintainability**, striving for **efficient, stable, and scalable applications** with hands-on experience in **low-level system integration, network communication, and location services.**  
 
-##### 👯‍♂️ 既是打工人，也做独立开发，乐于与同行交流 **架构设计、技术实践、开发思路**。  
+##### 👯‍♂️ A full-time developer and an independent creator, always eager to exchange ideas on **architecture, technical practices, and development strategies** with fellow developers.  
 
-##### 💬 **欢迎交流探讨**，期待与志同道合的开发者一起探索更好的技术实践。  
+##### 💬 Open to discussions and collaboration—looking forward to exploring better technical practices with like-minded developers! 🚀。  
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mille.yin@gmail.com)](mailto:mille.yin@gmail.com)
 
