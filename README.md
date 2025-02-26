@@ -7,15 +7,15 @@
 
 <img align="right" alt="" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%"/>
 
-##### 👨‍💻 **Currently focused on: Swift / SwiftUI / Framework** 
+#### 👨‍💻 **Currently focused on: Swift / SwiftUI / Framework** 
 
-##### 👍 **Specialized in** custom UI development, **Bluetooth, navigation, route tracking, and encryption.**  
+#### 👍 **Specialized in** custom UI development, **Bluetooth, navigation, route tracking, and encryption.**  
 
-##### 🌱 Passionate about **architecture design and maintainability**, striving for **efficient, stable, and scalable applications** with hands-on experience in **low-level system integration, network communication, and location services.**  
+#### 🌱 Passionate about **architecture design and maintainability**, striving for **efficient, stable, and scalable applications** with hands-on experience in **low-level system integration, network communication, and location services.**  
 
-##### 👯‍♂️ A full-time developer and an independent creator, always eager to exchange ideas on **architecture, technical practices, and development strategies** with fellow developers.  
+#### 👯‍♂️ A full-time developer and an independent creator, always eager to exchange ideas on **architecture, technical practices, and development strategies** with fellow developers.  
 
-##### 💬 Open to discussions and collaboration—looking forward to exploring better technical practices with like-minded developers! 🚀。  
+#### 💬 Open to discussions and collaboration—looking forward to exploring better technical practices with like-minded developers! 🚀。  
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mille.yin@gmail.com)](mailto:mille.yin@gmail.com)
 
