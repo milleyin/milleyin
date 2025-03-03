@@ -7,7 +7,7 @@
 
 <img align="right" alt="" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%"/>
 
-👨‍💻 **Currently focused on: Swift / SwiftUI / Framework** 
+👨‍💻 **Currently focused on Framework** 
 
 👍 **Specialized in** custom UI development, **Bluetooth, navigation, route tracking, and encryption.**  
 
