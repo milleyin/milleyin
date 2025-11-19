@@ -7,7 +7,7 @@
 
 <img align="right" alt="" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%"/>
 
-👨‍💻 **Currently focused on Framework** 
+🔗 Currently open to collaborating on Apple-platform projects, remote iOS roles, and framework development. 
 
 👍 **Specialized in** custom UI development, **Bluetooth, navigation, route tracking, and encryption.**  
 
