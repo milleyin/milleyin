@@ -7,7 +7,7 @@
 
 <img align="right" alt="" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%"/>
 
-🔗 Currently open to collaborating on Apple-platform projects, remote iOS roles, and framework development. 
+<!--
 
 👍 **Specialized in** custom UI development, **Bluetooth, navigation, route tracking, and encryption.**  
 
@@ -17,11 +17,15 @@
 
 💬 Open to discussions and collaboration—looking forward to exploring better technical practices with like-minded developers! 🚀。  
 
+-->
+
 📦 What I Build
  - 🔧 Swift frameworks – custom UI components, utility libraries, navigation & location modules
  - 📱 iOS/macOS apps – tools, developer utilities, offline systems, productivity apps
  - 🛰️ Low-level integrations – Bluetooth LE, location services, sensor fusion
  - 🧱 System architecture – modular design, clean code, scalable multi-device systems
+
+🔗 Currently open to collaborating on Apple-platform projects, remote iOS roles, and framework development. 
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mille.yin@gmail.com)](mailto:mille.yin@gmail.com)
 
