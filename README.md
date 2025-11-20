@@ -1,13 +1,11 @@
 ### **Hi 👋，I am Mille🌾**  
-##### **An Apple Developer**
-
+##### ** Apple Developer**
+<!--
 [中文](README_cn.md)
-
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/milleyin)
 
 <img align="right" alt="" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="20%"/>
 
-<!--
+
 
 👍 **Specialized in** custom UI development, **Bluetooth, navigation, route tracking, and encryption.**  
 
@@ -19,15 +17,15 @@
 
 -->
 
-📦 What I Build
- - 🔧 Swift frameworks – custom UI components, utility libraries, navigation & location modules
- - 📱 iOS/macOS apps – tools, developer utilities, offline systems, productivity apps
- - 🛰️ Low-level integrations – Bluetooth LE, location services, sensor fusion
- - 🧱 System architecture – modular design, clean code, scalable multi-device systems
+❓ **What I Build**
+ - 📦 **Swift frameworks** – custom UI components, utility libraries, navigation & location modules
+ - 📱 **iOS/macOS apps** – tools, developer utilities, offline systems, productivity apps
+ - 🛰️ **Low-level integrations** – Bluetooth LE, location services, sensor fusion
+ - 🧱 **System architecture** – modular design, clean code, scalable multi-device systems
 
 🔗 Currently open to collaborating on Apple-platform projects, remote iOS roles, and framework development. 
 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mille.yin@gmail.com)](mailto:mille.yin@gmail.com)
+[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/milleyin) [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mille.yin@gmail.com)](mailto:mille.yin@gmail.com)
 
 
 #### **🛠️ Languages**
@@ -38,4 +36,3 @@
 
 
 [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=help%20my%20project&emoji=🍺&slug=milleyin&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/milleyin)
-
